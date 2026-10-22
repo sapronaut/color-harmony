@@ -13,6 +13,9 @@ features:
 - wcag contrast checker
 - fully client-side
 
+
+<img width="858" height="413" alt="image" src="https://github.com/user-attachments/assets/edabbb5a-42ca-4a65-8c10-512da0674b17" />
+
 stack:
 - vite + react + typescript
 - tailwind css
